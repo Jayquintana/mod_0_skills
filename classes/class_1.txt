@@ -1,4 +1,4 @@
-Entree
+Entree   
 
 name (string)
 ingredients (array)
