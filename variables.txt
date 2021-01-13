@@ -1,0 +1,22 @@
+var food = "Tacos"
+var is_delicious = true
+
+console.log(food);
+console.log(is_delicious);
+
+food = "Quesadilla"
+var num2 = 15
+var num7 = 10
+
+console.log (food)
+console.log(num2);
+console.log(num7);
+
+var quotient = num2 / num7
+
+console.log(quotient);
+
+var songs = ["happy","Last call","Christmas","Migas 2000"];
+
+songs.shift();
+console.log(songs);
