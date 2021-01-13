@@ -1,0 +1,16 @@
+Entree
+
+name (string)
+ingredients (array)
+price (integer)
+isHot (boolean)
+dishType (string)
+plateType (string)
+Quantity (integer)
+sides (array)
+
+changeTemp (updates isHot to false)
+adjustPrice (updates price)
+addSide (updates sides)
+changePlate (changes plateType)
+addIngredients (updates ingredients)
