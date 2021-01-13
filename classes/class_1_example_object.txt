@@ -1,0 +1,16 @@
+BreakfastEntree
+
+name ("Huevos Rancheros")
+ingredients ["tortilla", "egg","rice","sauce","cilantro"]
+price (12.25)
+isHot (True)
+dishType ("Mexican")
+plateType (Square)
+Quantity (1)
+sides ["avocado", "tortilla", "beans"]
+
+changeTemp (updates isHot to false)
+adjustPrice (updates price to 10.25)
+addSide (updates sides with salsa)
+changePlate (changes plateType to round)
+changeIngredients (updates ingredients with extra egg)

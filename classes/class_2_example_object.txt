@@ -1,0 +1,15 @@
+Cocktail
+
+nameDrink ("SideCar")
+drinkSize ("16 oz")
+cupType ("Glass")
+isCold (true)
+hasIce (false)
+drinkFlavors ("lemon","triplesec","brandy")
+
+
+adjustSize (updates drinkSize attribute to 10 oz)
+changeCup (updates cupType attribute to platic)
+changeTemp (updates isCold attribute to false)
+addFlavor (updates drinkFlavors attribute with sugar)
+addIce (updates hasIce attribute to true)

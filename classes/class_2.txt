@@ -1,0 +1,14 @@
+Drinks
+
+nameDrink (string)
+drinkSize (integer)
+cupType (string)
+isCold (boolean)
+hasIce (boolean)
+drinkFlavors (array)
+
+
+adjustSize (updates drinkSize attribute)
+changeCup (updates cupType attribute)
+changeTemp (updates isCold attribute)
+addFlavor (updates drinkFlavors attribute)
