@@ -1,4 +1,4 @@
-var food = "Tacos"
+var food = "Taco"
 var is_delicious = true
 
 console.log(food);
@@ -15,6 +15,7 @@ console.log(num7);
 var quotient = num2 / num7
 
 console.log(quotient);
+console.log(food.length)
 
 var songs = ["happy","Last call","Christmas","Migas 2000"];
 
