@@ -1,6 +1,6 @@
-Drinks   
+Drink   
 
-nameDrink (string)
+name (string)
 drinkSize (integer)
 cupType (string)
 isCold (boolean)

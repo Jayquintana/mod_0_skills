@@ -1,12 +1,12 @@
-BreakfastEntree   
+BreakFastEntree
 
-name ("Huevos Rancheros")
+name = "Huevos Ranchero"
 ingredients ["tortilla", "egg","rice","sauce","cilantro"]
-price (12.25)
-isHot (True)
-dishType ("Mexican")
-plateType (Square)
-Quantity (1)
+price = 12.25
+isHot = true
+dishType "Mexican"
+plateType= "Square'
+Quantity = 1
 sides ["avocado", "tortilla", "beans"]
 
 changeTemp (updates isHot to false)
